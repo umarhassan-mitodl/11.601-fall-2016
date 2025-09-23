@@ -1,0 +1,95 @@
+leftnav:
+- identifier: 34f1789c-8aaf-38e3-09e5-bb5833416ad7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 9356994a-f702-9c0e-8037-f1fd286ac932
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 9c26f72e-c6cf-f925-a9b7-18d7f4f94972
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 1f2ca444-61b9-61d0-4027-f4dd01f17c65
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: da65609a-7335-5da2-8859-600efecd8844
+  name: Scenario Presentations
+  pageRef: /pages/scenario-presentations/
+  weight: 50
+- identifier: 014ec48e-78b7-a0e5-ac10-4c7e0ecaff4c
+  name: Scenario 1
+  pageRef: /pages/scenario-presentations/scenario-1
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 60
+- identifier: 75437490-1261-164e-4cb3-0b07531bbcd2
+  name: Scenario 2
+  pageRef: /pages/scenario-presentations/scenario-2
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 70
+- identifier: 946f9108-5c59-d351-2921-53a24bc8fdf6
+  name: Scenario 3
+  pageRef: /pages/scenario-presentations/scenario-3
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 80
+- identifier: f3606f13-5a96-e2e6-52a0-7adad6bf61eb
+  name: Scenario 4
+  pageRef: /pages/scenario-presentations/scenario-4
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 90
+- identifier: 88db4133-b07c-7450-9581-c55e4f3b6dfd
+  name: Scenario 5
+  pageRef: /pages/scenario-presentations/scenario-5
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 100
+- identifier: 68660703-4841-af90-09d2-5fbf81904426
+  name: Scenario 6
+  pageRef: /pages/scenario-presentations/scenario-6
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 110
+- identifier: e26e7a67-5c9a-5655-bf5b-e667b790b524
+  name: Scenario 7
+  pageRef: /pages/scenario-presentations/scenario-7
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 120
+- identifier: 112a3bf2-66eb-fb74-0183-c34ecc2344ce
+  name: Scenario 8
+  pageRef: /pages/scenario-presentations/scenario-8
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 130
+- identifier: b22ba9d4-c535-e5d9-522c-5e13cd68495e
+  name: Scenario 9
+  pageRef: /pages/scenario-presentations/scenario-9
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 140
+- identifier: 0845977c-c7f6-281d-2c2f-ec3a8c06cc31
+  name: Scenario 10
+  pageRef: /pages/scenario-presentations/scenario-10
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 150
+- identifier: d1a835f0-f1d9-9456-907a-05e67f093ccf
+  name: Scenario 11
+  pageRef: /pages/scenario-presentations/scenario-11
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 160
+- identifier: 08e992d0-05b2-ed79-81bd-cb585b4e72f7
+  name: Scenario 12
+  pageRef: /pages/scenario-presentations/scenario-12
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 170
+- identifier: 4b832163-0d99-aad4-2f56-b1e7c51dbc31
+  name: Scenario 13
+  pageRef: /pages/scenario-presentations/scenario-13
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 180
+- identifier: c79d4e29-8df5-7f4e-bd40-469293de253b
+  name: Scenario 14
+  pageRef: /pages/scenario-presentations/scenario-14
+  parent: da65609a-7335-5da2-8859-600efecd8844
+  weight: 190
+- identifier: 361101bf-c451-3f24-b36d-9f8c29ca9bfe
+  name: Exams
+  pageRef: /pages/exams
+  weight: 200
