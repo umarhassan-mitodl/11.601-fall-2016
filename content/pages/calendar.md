@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains information about the course schedule for the semester.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -300,7 +302,7 @@ _Scenario #10_
 15
 {{< tdclose >}}
 {{< tdopen >}}
-**{{% resource_link "b6141cc5-c0fc-4fda-84a4-002126b827b6" "Humboldt Game Simulation Role Play" %}}**
+**[Humboldt Game Simulation Role Play](https://www.pon.harvard.edu/shop/humboldtmediating-a-regional-development-dispute/)**
 
 _Simulation reflection due tomorrow_
 
