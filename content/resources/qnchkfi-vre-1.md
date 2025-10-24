@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/725475dd6176a47ff75dd52baa3470c0_QNchkFi-VrE.pdf
 file_size: 26558
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
